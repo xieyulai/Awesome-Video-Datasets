@@ -69,6 +69,11 @@
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kong_MMAct_A_Large-Scale_Dataset_for_Cross_Modal_Human_Action_Understanding_ICCV_2019_paper.pdf)][[Homepage](https://mmact19.github.io/2019/)]</br>
 *36k video clips, 37 action classes, RGB+Keypoints+Acc+Gyo+Ori+Wi-Fi+Presure*
 
+* **Warehouse MoC+Sensor**: Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition (ESWA 2026) </br> 
+[[Paper](https://doi.org/10.1016/j.eswa.2026.132094)][[Homepage](https://github.com/xieyulai/warehouse-moc-sensor)]</br>
+*9 subjects, 1768 clips, 8 warehouse/logistics classes; real wrist watch ACC + full-body MoCap (20 joints × POS/ACC/GYR)*
+
+
 * **LEMMA**: A Multi-view Dataset for LEarning Multi-agent Multi-task Activities (ECCV 2020) </br> 
 [[Paper](https://arxiv.org/pdf/2007.15781.pdf)][[Homepage](https://sites.google.com/view/lemma-activity)]</br>
 *RGB-D, 641 action classes, 11,781 action segments, 4.6M frames*
